@@ -9,7 +9,7 @@ import {
 
 const About = () => {
   return (
-    <section id="about" className='relative rounded-2xl flex w-full h-screen items-center backdrop-blur-lg'>
+    <section id="about" className='relative flex w-full h-screen items-center backdrop-blur-lg'>
         <div className='z-10 flex gap-y-4 p-4 mx-4 rounded-xl bg-[#2b4b70] flex-auto '>
             <div className='grid grid-cols-1 md:grid-cols-4 gap-y-4'>
                 <div className="col-span-1 flex justify-center md:justify-start">
@@ -25,7 +25,7 @@ const About = () => {
                             I have 3 years of experience as a Full Stack Developer, including frontend projects in React and TypeScript,
                             backend projects in a .NET monolith, and creating a containerized API using NestJS and MongoDB.
                             Moving forward, I&apos;m excited about positions where I can contribute across the stack and take part in the design discussions.
-                            I&apos;m open to both Remote and On-Site roles.
+                            Im open to both Remote and On-Site roles, and I&apos;m willing to relocate for the right opportunity.
                         </p>
                         <div className='flex p-2 flex-col'>
                             <ul className="grid grid-cols-1 gap-4">
