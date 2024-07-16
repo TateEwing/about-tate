@@ -9,7 +9,7 @@ import {
 
 const About = () => {
   return (
-    <section id="about" className='relative flex w-full h-screen items-center backdrop-blur-lg'>
+    <section id="about" className='relative flex flex-auto md:h-screen w-full py-4 items-center backdrop-blur-lg'>
         <div className='z-10 flex gap-y-4 p-4 mx-4 rounded-xl bg-[#2b4b70] flex-auto '>
             <div className='grid grid-cols-1 md:grid-cols-4 gap-y-4'>
                 <div className="col-span-1 flex justify-center md:justify-start">

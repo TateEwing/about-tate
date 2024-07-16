@@ -1,5 +1,4 @@
 'use client'
-
 import React from 'react'
 import {useScrollVideo} from '@/app/hooks/useScrollVideo'
 import { testimonialsData } from '@/data/testimonialsData'

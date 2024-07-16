@@ -6,8 +6,8 @@ import Link from 'next/link';
 
 const Landing = () => {
 	return (
-		<section id="landing" className='relative flex h-screen w-full items-center justify-center'>
-			<div className='items-center max-w-screen-lg px-4'>
+		<section id="landing" className='relative flex md:h-screen w-full items-center justify-center'>
+			<div className='items-center max-w-screen-lg py-[96px] px-4'>
 				<div className='z-10 flex flex-col justify-center gap-y-4 p-4 rounded-xl  bg-neutral-600/20 backdrop-blur-lg items-center text-center flex-auto '>
 					<h1 className='text-4xl font-bold leading-none tracking-tight text-gray-100'>
 						Hello!
