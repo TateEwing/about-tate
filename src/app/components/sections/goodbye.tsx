@@ -4,7 +4,7 @@ import { ArrowUpCircleIcon } from '@heroicons/react/24/solid'
 
 const Goodbye = () => {
   return (
-    <section id="goodbye" className="z-10 flex flex-col items-center justify-center py-10 md:h-screen w-full bg-[#294b4b]">
+    <section id="goodbye" className="z-10 flex flex-col items-center justify-center py-10 h-full md:h-screen w-full bg-[#294b4b]">
       <div className='flex flex-col h-screen justify-center items-center gap-y-4 px-4 max-w-screen-lg'>
         <h1 className="text-center text-white text-lg md:text-3xl font-bold">
           Thank you for taking the time to check out my website! If you would like to connect, please reach out via email or LinkedIn.

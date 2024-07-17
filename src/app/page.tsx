@@ -14,8 +14,6 @@ export default function Home() {
 			<Image
 				alt="Washington Pass"
 				className="fixed top-0 z-0 h-full w-full object-cover"
-				placeholder="blur"
-				
 				src={imageSrc}
 			/>
 			<Landing />

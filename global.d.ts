@@ -14,7 +14,6 @@ declare type ProjectItemData = {
     description: string;
     url: string;
     source?: string;
-    toolsUsed?: string[];
 }
 
 declare type ProjectsSectionData = {

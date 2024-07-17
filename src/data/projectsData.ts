@@ -4,7 +4,7 @@ export const projectsSectionData: ProjectsSectionData = {
       {
           title: "Personal Website",
           description: "The website you are looking at! I built it from scratch using Next.js and Tailwind CSS, and deployed it using GitHub pages.",
-          url: "https://github.com/TateEwing/about-tate",
+          url: "https://about-tate.vercel.app",
           source: "https://github.com/TateEwing/about-tate",
       },
       {
@@ -12,7 +12,6 @@ export const projectsSectionData: ProjectsSectionData = {
           description: "A data visualization app showing my personal outdoor activity data from the past few years. I used Jupyter Notebooks with Pandas to organize the data, and Streamlit to display it with a Mapbox backdrop.",
           url: "https://mountainvis.streamlit.app",
           source: "https://github.com/TateEwing/MountainVis",
-          toolsUsed: ["Streamlit","Pandas", "Jupyter Notebooks"]
       },
       {
           title: "Bend Wildfire Exposure Map",
