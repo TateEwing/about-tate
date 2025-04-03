@@ -21,9 +21,13 @@ const About = () => {
 					<div className="flex flex-col gap-y-2">
 						<h2 className="text-2xl font-bold text-white">About me</h2>
 						<p className="prose prose-sm text-gray-300 sm:prose-base">							
-							I&apos;m a Software Engineer who is interested in working for a company with a mission I support. I have 3 years of experience
-							as a Full Stack Developer, including frontend projects in React and TypeScript, backend projects in a .NET monolith, 
-							and creating a containerized API using NestJS and MongoDB. For my next role, I&apos;m looking for Software Engineer positions where
+							I&apos;m a Software Engineer who is passionate about working for a company with a mission I support. I have 3+ years of experience
+							as a <strong>full stack developer</strong>, with skills in frontend development using React and TypeScript, backend development Node.js and .NET Framework,
+							and DevOps practices using a variety of cloud services, Docker, and Kubernetes. I have experience building out APIs following both HTTP and RPC patterns
+							and I enjoy learning new tools.
+						</p>
+						<p className="prose prose-sm text-gray-300 sm:prose-base">
+							I&apos;m looking for Software Engineer positions where
 							I can contribute across the stack and participate in design discussions. I&apos;m open to Remote and Hybrid roles, and I&apos;m 
 							willing to relocate for the right opportunity.
 						</p>

@@ -25,6 +25,12 @@ export const workExperienceData: ResumeSectionData = {
             location: "Docusign",
             duration: "August 2022 - August 2023",
             description: "Led delivery of monthly reports to Life Sciences customers to validate 21 CFR Part 11 compliance and built a new API to bring the report delivery service out of the .NET monolith. I helped design schema to model accounts and reports in MongoDB database, built NestJS service to store and deliver reports to customers, and deployed it as a containerized app using Docker and Kubernetes.",
+        },
+        {
+            title: "SDE II",
+            location: "98point6 Technologies",
+            duration: "September 2024 - Present",
+            description: "Building out an asynchronous virtual health care platform using React, tRPC, and Temporal workflow orchestration. My key contributions to the platform include the fee collection system with Authorize.net API, and email notification service with Mailgun to keep patients and practitioners updated. Here, I've furthered my experience with cloud native application development and gained experience with AWS (S3 and Cloudwatch).",
         }
     ]
 }
